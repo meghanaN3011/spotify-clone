@@ -19,15 +19,15 @@ This is a simple clone of the Spotify web interface built using **HTML** and **C
 
 ## Screenshots:-
 
+![image](https://github.com/user-attachments/assets/2873c12f-76a7-477c-821e-9da01ea35de4)
 
+![image](https://github.com/user-attachments/assets/e7c660b1-fc02-4e47-8bb6-d2fcb7a24699)
 
 ## How to Use:-
 
-1. Clone this repository:
-   
-    git clone https://github.com/yourusername/spotify-clone.git
+1. Clone this repository: git clone https://github.com/yourusername/spotify-clone.git
   
-2. Open `index.html` in your preferred browser to view the site locally.
+3. Open `index.html` in your preferred browser to view the site locally.
 
 ## Future Enhancements:-
 

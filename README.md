@@ -1,4 +1,4 @@
-## Spotify Clone🎵
+## SPOTIFY CLONE🎵
 
 ## Project Overview:-
 
